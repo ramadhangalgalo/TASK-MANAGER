@@ -41,7 +41,7 @@ The CLI provides interactive menus for:
 - Viewing relationships between users, projects, and tasks
 - Marking tasks as complete
 
-## Requirements Met
+## Requirements met
 
 ✅ CLI application solving real-world problem (task management)
 ✅ SQLAlchemy ORM with 3+ related tables
